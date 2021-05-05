@@ -74,3 +74,8 @@ footer{
     background: url("./img/bg.jpg");
     padding: 40px 0;
 }
+.copyrigth{
+    color:#FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
+}
